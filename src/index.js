@@ -56,7 +56,12 @@ addBtn.addEventListener('click', () => {
     });
 
     id += 1;
+    
+  
     localStorage.setItem('TODO', JSON.stringify(LIST));
+    localStorage.clear();
+
+
   }
 
   input.value = '';
@@ -89,7 +94,7 @@ list.addEventListener('click', (event) => {
   }
 
   if (event.target.classList.contains('edit')) {
-    const todos = JSON.parse(localStorage.getItem('TODO')) || [];
+    const todos = [];
     const description = event.target.previousElementSibling.children[1].textContent;
     const id = Number(event.target.getAttribute('id'));
     const selectedTodo = todos.find((todo) => todo.id === id);

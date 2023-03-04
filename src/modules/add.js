@@ -20,6 +20,7 @@ const addToDo = (todo, id, done, trash) => {
                 </li>`;
 
   list.insertAdjacentHTML(position, item);
+  
 };
 
 export default addToDo;
