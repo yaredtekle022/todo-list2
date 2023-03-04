@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h3><b>interactive to do </b></h3>
+  <h3><b>add remove todo </b></h3>
 
 </div>
 
@@ -70,7 +70,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/yaredtekle022/Todo-list
+  git clone https://github.com/yaredtekle022/Todo-list2
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
