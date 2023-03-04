@@ -56,12 +56,9 @@ addBtn.addEventListener('click', () => {
     });
 
     id += 1;
-    
-  
+
     localStorage.setItem('TODO', JSON.stringify(LIST));
     localStorage.clear();
-
-
   }
 
   input.value = '';
