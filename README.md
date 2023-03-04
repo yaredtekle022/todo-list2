@@ -1,6 +1,8 @@
-<div align="center">
+<a name="readme-top"></a>
 
-  <h3><b>Webpack Starter Template</b></h3>
+
+<div align="center">
+  <h3><b>interactive to do </b></h3>
 
 </div>
 
@@ -11,13 +13,10 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -27,96 +26,52 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Webpack Starter Template] <a name="about-project"></a>
+# 📖 [add remove ToDo list] <a name="about-project"></a>
 
-A boilerplate for webpack projects
+> ToDo list
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-- **Webpack**
-- **Html 5**
+- Html
+- CSS3
+- Javascript
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+
+- **edit  todo**
+- **remove remove todo**
+  **add todo**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+
 
 To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-Example commands:
-
 ```sh
   cd my-folder
-  git clone git@github.com/Stephen-Adom/webpack-template.git
+  git clone https://github.com/yaredtekle022/Todo-list
 ```
-
--
-
-### Install
-
-Install this project with:
-
-Example command:
-
-```sh
-  cd my-project
-  npm install
-```
-
--
-
-### Usage
-
-To run the project, execute the following command:
-
-```sh
-  npm run start
-```
-
--
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,13 +79,13 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Yared Tekle**
 
-👤 **Stephen Addae**
+- GitHub: [@yaredtekle022](https://github.com/yaredtekle022)
+- Twitter: [@YaredTekle22](https://twitter.com/YaredTekle22)
+- LinkedIn: [yared-tekle-5708ba22b](https://www.linkedin.com/in/yared-tekle-5708ba22b/)
 
-- GitHub: [@Stephen-Adom](https://github.com/Stephen-Adom)
-- Twitter: [@stephen_alaska](https://twitter.com/stephen_alaska)
-- LinkedIn: [Stephen Addae](https://www.linkedin.com/in/stephen-addae-a32334154/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,7 +93,13 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+
+
+- [ ] **add remove ToDo list**
+      **clear all todo list**
+      **edit todo list**
+
+- [ ] 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,9 +117,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,9 +125,8 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank everyone helped
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
